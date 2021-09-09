@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;0,800;1,600&display=swap');
+*{
+    font-family:"Montserrat", "sans-serif";
+}
+.navbar1{
+    width: 100% !important;
+    background: none !important;
+    border-bottom: 1px solid #A1A1A1;
+    
+     
+}
+.collapse.navbar-collapse{
+   
+    padding-left: 50%;
+    
+}
+.block{
+    background-image: url("../../bakyt-maket/component/img/Rectangle.png") ;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.navbar-expand-lg.navbar-light.bg-light{
+    background: none !important;
+    height: 100px;
+}
+
+.nav-link{
+    color: white !important;
+}
+.header{
+    color: white;
+    text-align: center;
+    padding:300px ;
+    
+}
+.btn.btn-primary.btn-lg{
+    background-color: #4985FF;
+    border-radius: 25px;
+}
+h1{
+    font-size: 48px;
+    font-weight:800 !important ;
+}
+@media screen and (device-width: 780px) {
+    .header{
+        padding: 10px ;
+        
+    }
+h1{
+        font-size: 24px;
+}
+    
+
+    
+}
+.blockstyle-2{
+    padding-top: 110px;
+    text-align: center;
+}
+.blockstyle-3{
+    padding-top: 50px;
+    text-align: center;
+   
+}
+.card-glav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+.btn-v2str{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+ 
+}
+.btn1.btn-primary.btn-lg{
+    background-color: #4985FF;
+    border-radius: 25px;
+   
+    
+    
+}
+.list-3{
+    background: #F6F6F8;
+  
+
+}
+.div-block-4{
+    padding-left: 121px;   
+    
+}
+.div-block-3{
+    display: flex;
+    justify-content: center;
+    padding-top: 152px;
+    border-bottom: 1px solid #E0E0E0;
+
+}
+.niz-str{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+.newList{
+    background:#504DC2;
+    width: 100%;
+    height: 100%;
+}
+.text-center1{
+    color: white;
+    font-weight:800 !important;
+    padding-left: 200px;
+    padding-top: 100px;
+    
+}
+ .list10{
+     
+    
+ }
+ .cartochki{
+     display: flex;
+     justify-content:center;
+     padding-top: 100px;
+     border-bottom: 1px solid #E0E0E0;
+ }
+ .btn-list4{
+     padding-left:1500px;
+     padding-top: 1px;
+ }
+ .btn3.btn-primary.btn-lg{
+    background-color: #4985FF;
+    border-radius: 25px;
+ }
+ .block5{
+     background: #F6F6F8;
+ }
+.text-block12{
+   
+    text-align: center;
+    padding-top: 100px;
+}
+ .img-block12{
+     display: flex;
+     justify-content: space-evenly;
+     padding-top: 70px;
+ }
+ .btn6.btn-primary.btn-lg{
+    background-color: #4985FF;
+    border-radius: 25px;
+    
+
+ }
+ .btn-bakyt4{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+ }
+ .pre-pos-block{
+     background-image: url("../../bakyt-maket/component/img/Rectangle17.png");
+     width: 100%;
+    height: 570px;
+    background-size: cover;
+    background-position: center;
+
+ }
+ .img-pre-block{
+display: flex;
+justify-content: center;
+padding-top: 70px;
+
+ }
+ .text-pre-block{
+text-align: center;
+padding-top: 70px;
+color: white;
+ }
+ .img-redact{
+     display: flex;
+     justify-content: center;
+position: relative;
+ }
+ .img-redact1{
+    
+     position: absolute;
+     border-bottom: 1px solid #E0E0E0;
+     
+ }
+ .text-center-23{
+     text-align: center;
+     color:black;
+     padding-top: 300px;
+ }
+ .text-center-24{
+     text-align: center;
+     padding-top: 20px;
+     
+ }
+ .input-group.mb-3{
+     padding-left: 35%;
+     padding-right: 35%;
+     border-radius: 25px;
+    
+ }
+ .p-class-style{
+     text-align: center;
+     padding-top: 35px;
+ }
+ 
+ .last-list-3{
+    background: #F6F6F8;
+    display: flex;
+    justify-content: space-evenly;
+   
+
+ }
+ .vector1{
+     display: flex;
+     align-items: center;
+     padding-top: 35px;
+     
+ }
+ .vector1 p{
+     margin: 0;
+ }
+ .vector2{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector2 p{
+    margin: 0;
+}
+.vector3{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector3 p{
+    margin: 0;
+}
+.vector4{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector4 p{
+    margin: 0;
+}
+.vector5{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector5 p{
+    margin: 0;
+}
+.vector6{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector6 p{
+    margin: 0;
+}
+.vector7{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector7 p{
+    margin: 0;
+}
+.vector8{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector8 p{
+    margin: 0;
+}
+.vector9{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector9 p{
+    margin: 0;
+}
+.vector10{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector11 p{
+    margin: 0;
+}
+.vector12{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector13 p{
+    margin: 0;
+}
+.vector14{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector14 p{
+    margin: 0;
+}
+.vector15{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.vector15 p{
+    margin: 0;
+}
+.last-block{
+    border-bottom: 1px solid black;
+}
+.last-block2{
+    border-bottom: 1px solid black;
+}
+.last-block3{
+    border-bottom: 1px solid black;
+}
+.last-block4{
+    border-bottom: 1px solid black;
+}
+.p-style-4{
+    text-align: center;
+}
